@@ -63,32 +63,14 @@ object {
     padding-bottom: 20px;
 }
 
-.center h2 {
+h2 {
     padding-bottom: 20px;
     font-family: 'Oswald';
+    letter-spacing: 1.5px;
     /* font-size: 22px; */
-}
-.left h2 {
-    padding-bottom: 20px;
-    font-family: 'Oswald';
-    /* font-size: 22px; */
-}
-.right h2 {
-    padding-bottom: 20px;
-    font-family: 'Oswald';
-    /* font-size: 20px; */
-    /* font-weight: 20px; */
 }
 
-.center p {
-    padding-bottom: 70px;
-    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
-}
-.left p {
-    padding-bottom: 70px;
-    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
-}
-.right p {
+p {
     padding-bottom: 70px;
     font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
 }
