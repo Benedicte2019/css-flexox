@@ -42,19 +42,20 @@ button {
     border: none;
     border-radius: 20px;
     width: 110px;
+    font-family: "Lexend Deca";
 }
 
 .btn-left {
     color: hsl(31, 77%, 52%);
-    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+    /* font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; */
 }
 .btn-center {
     color: hsl(184, 100%, 22%);
-    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+    /* font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; */
 }
 .btn-right {
     color: hsl(179, 100%, 13%);
-    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+    /* font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; */
 }
 
 object {
@@ -64,13 +65,18 @@ object {
 h2 {
     padding-bottom: 20px;
     font-family: 'Oswald';
-    letter-spacing: 1.5px;
+    /* letter-spacing: 1.5px; */
     color: hsl(0, 0%, 95%);
+    font-family: "Big Shoulders Display";
+    font-weight: 700;
     /* font-size: 22px; */
 }
 
 p {
     padding-bottom: 70px;
     color: hsla(0, 0%, 100%, 0.75);
-    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+    font-size: 15px;
+    /* font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; */
+    font-family: "Lexend Deca";
+    font-weight: 400;
 }
